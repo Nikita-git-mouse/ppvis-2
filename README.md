@@ -202,4 +202,6 @@ classDiagram
    
 **Локация в консоле:**<br>
 
-   ![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+   ![fvx]( https://sun9-31.userapi.com/impg/qH-amsQHfk2F_YthrulcUJy0KZ6yHN3MCdP5AQ/Q54lf0-gKr0.jpg?size=127x252&quality=95&sign=f9b19386920b02ace83afd0d936df812&type=album )
+   ![Alt-текст](https://sun9-52.userapi.com/impg/V2AmUPEoJcwjrL05LznjhXsTOuFjb3TBo9J9NQ/8BgtANnLzZE.jpg?size=115x250&quality=95&sign=1d798867c741444eae215954fabda101&type=album )
+
