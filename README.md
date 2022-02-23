@@ -168,19 +168,20 @@ classDiagram
 ```mermaid
 classDiagram
   direction LR
-  class Predator {
+  
+  class Herbivore {
     - position X: number
     - position Y: number
     - health: number
     - ageLife: number
     - area: Location
-    + Predator(positionX, positionY, area, health, ageLife)
+    + Animal(positionX, positionY, area, health, ageLife)
     + reproduction()
     + eat()
     + step()
   }
-  
-  class Herbivore {
+   
+     class Animal {
     - position X: number
     - position Y: number
     - health: number
