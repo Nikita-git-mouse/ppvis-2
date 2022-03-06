@@ -1,0 +1,3 @@
+{
+    "files": ["static/predator-storage","views/console_view_implement.py","static/herbivore-storage","interfaces/step-interface.py","animal/herbivore-implement.py","static/plant-storage","main.py","static/location-storage","repository/filesystem.py","animal/predator-implement.py","plant/plant_implement.py","interfaces/view_interface.py","interfaces/organism_interface.py","location/location_implement.py"]
+}
